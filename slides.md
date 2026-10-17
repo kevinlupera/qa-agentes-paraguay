@@ -76,7 +76,7 @@ Antes de pasar el filtro, el que habla también enseña su credencial.
 
 <CrewBadge
   name="Kevin Lupera"
-  role="Tech Lead @ Alegra"
+  role="Engineering Manager @ Alegra"
   org="AWS Community Builder · SA Professional"
   clearance="ALL AREAS"
   :links="[
